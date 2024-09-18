@@ -19,7 +19,7 @@ and
     ---currency route should involve GBP to be UK entity
     Currency_Route LIKE '%GBP%'
 and
-    ---address country such be UK to be UK entity
+    ---address country should be UK to be UK entity
     Current_Address_Country = 'UK'
 and
     ---ensuring cross currency
